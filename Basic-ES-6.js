@@ -14,7 +14,7 @@ function maxNumber(array = []){
 const biggest = maxNumber();
 console.log(biggest);
 // 3. template string
-const myNotes = `I am mojnu of $(hubby). I have a $(phone).`
+const myNotes = `I am mojnu of ${hubby}. I have a ${phone}.`
 console.log(myNotes);
 
 // 4. arrow function

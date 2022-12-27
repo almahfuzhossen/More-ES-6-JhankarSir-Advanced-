@@ -1,6 +1,5 @@
 const userInput = window.prompt('Enter Number')
 
-
 function checkEvenOdd (userInput){
     if(userInput %2 == 0){
         return ('Even Number');
